@@ -1,0 +1,1 @@
+This is a resume project I have created. This is a recreation of my own resume using headers, paragraphs, captions, and unorganized lists.
